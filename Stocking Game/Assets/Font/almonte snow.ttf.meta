@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab8635ac5bf4b9f438db4d999100e338
+timeCreated: 1496944727
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Almonte
+  fontNames:
+  - Almonte
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
