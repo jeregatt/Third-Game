@@ -47,8 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Platfotm.cs" />
      <Compile Include="Assets\Scripts\PresentBurst.cs" />
      <Compile Include="Assets\Scripts\StockingController.cs" />
+     <Compile Include="Assets\Scripts\TimerController.cs" />
+     <Compile Include="Assets\Scripts\UIController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
